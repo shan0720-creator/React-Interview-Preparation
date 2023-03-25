@@ -1,0 +1,18 @@
+// Redux is a state container
+// consider a React-app - state of a component
+// State of an app is the state shared by all the individual components of that app
+// Redux will store and manage the application state
+// If you want to manage the global state of your application in a predictable way, redux can help you
+// The patterns and tools provided by Redux make it easier to understand when, where, why, and how the state in Your Application is being updated, and how 
+// Your application logic will behave when changes occur
+// Redux is great, but it does have a few shortcomings
+// configuring redux in an app seems complicated
+// In addition to redux, a lot of other packages have to be installed to get redux to do something useful 
+// Redux requires too much boilerplate code
+// Redux toolkit serves as an abstraction over redux.It hides the difficult parts ensuring you have a good developer experience
+// React-redux is the official Redux-UI binding library for react.
+// When should I use redux in my react application?
+// You have large amounts of application state that are needed in many places in the app
+// The app state is updated frequently over time 
+// The logic to update that state may be complex
+// The app has a medium or large-sized codebase, and might be worked on by many people

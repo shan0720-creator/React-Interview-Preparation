@@ -1,0 +1,14 @@
+.pers{
+  width:300px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.cB{
+  width: 100px;
+  height: 100px;
+  color: blueviolet;
+  font-size:15px;
+}

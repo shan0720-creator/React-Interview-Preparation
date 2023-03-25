@@ -1,0 +1,21 @@
+// Manual Testing
+// Automated Testing
+// Manual Testing is one of the ways but in modern developement we can write programs/code which performs the test on specific modules or units or even entire application
+// Testing is really essential and also React also supports it well with the use of libraries
+// As a good react developer you must be aware and capable of writing/managing automated Testing
+
+
+//three main categories of automated testing : - unit test, Integrated test , End-to-End
+// Unit testing is all about checking individual functions, components or basically units of code
+// Integrated test: - This type of test comes in picture when code pieces, units or components are integrated and together how do they work
+// End to End: - This type of test is to check the entire application and its flow
+// There are many ways or robots to automate data entry process and generating reports for success and failure status
+// Jest and Enzyme are the libararies which are very popular and is often used with react while testing automation
+// Generally both jest and enzyme libararies are used together , jest is availaible with tools like assertion, mocking, test runner
+// Enyme gives more functionality while dealing with components or basically the UI
+
+// The correct way to name the test files is, Component name- Product.js 
+// Test File - Product.test.js
+// To run the test npm run test
+// The meaning of test Driven developement: - if you have a product component to do then the component testing is written first with all the validations
+// Then you keep on building the component product and it will keep on checking the test
